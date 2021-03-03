@@ -1,10 +1,6 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <div><p>这里是子模块</p></div>
-    <div><p>这里是子模块</p></div>
-    <div><p>这里是子模块</p></div>
-    <div><p>这里是子模块</p></div>
   </div>
 </template>
 
